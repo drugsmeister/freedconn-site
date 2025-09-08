@@ -1,0 +1,68 @@
+```html
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Мотогарнітура FreedConn T-Com SC</title>
+<script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-800 font-sans">
+<!-- Header -->
+<header class="bg-black text-white py-6 shadow-lg">
+<div class="container mx-auto px-6 flex justify-between items-center">
+<h1 class="text-2xl font-bold">FreedConn T-Com SC</h1>
+<a href="#buy" class="bg-red-500 hover:bg-red-600 px-4 py-2 rounded-lg font-semibold">Замовити</a>
+</div>
+</header>
+
+
+<!-- Hero -->
+<section class="container mx-auto px-6 py-12 flex flex-col md:flex-row items-center">
+<div class="md:w-1/2">
+<h2 class="text-3xl md:text-4xl font-bold mb-4">Мотогарнітура для справжніх райдерів</h2>
+<p class="mb-6 text-lg">FreedConn T-Com SC — це зручність, безпека та свобода спілкування на дорозі. Слухай музику, приймай дзвінки та спілкуйся з напарником без рук.</p>
+<a href="#buy" class="bg-red-500 hover:bg-red-600 px-6 py-3 rounded-xl text-white font-semibold text-lg">Купити зараз</a>
+</div>
+<div class="md:w-1/2 mt-8 md:mt-0 flex justify-center">
+<img src="https://m.media-amazon.com/images/I/61Ufx12M0nL._AC_SL1500_.jpg" alt="FreedConn T-Com SC" class="rounded-2xl shadow-lg max-w-sm">
+</div>
+</section>
+
+
+<!-- Features -->
+<section class="bg-white py-12">
+<div class="container mx-auto px-6 grid md:grid-cols-3 gap-8 text-center">
+<div class="p-6 bg-gray-50 rounded-2xl shadow">
+<h3 class="text-xl font-bold mb-3">Інтерком до 800 м</h3>
+<p>Спілкуйся з напарником без перешкод навіть на швидкості.</p>
+</div>
+<div class="p-6 bg-gray-50 rounded-2xl shadow">
+<h3 class="text-xl font-bold mb-3">Bluetooth 3.0</h3>
+<p>З’єднання зі смартфоном, GPS та MP3 плеєром.</p>
+</div>
+<div class="p-6 bg-gray-50 rounded-2xl shadow">
+<h3 class="text-xl font-bold mb-3">Чіткий звук</h3>
+<p>Вбудований мікрофон з шумозаглушенням та якісні динаміки.</p>
+</div>
+</div>
+</section>
+
+
+<!-- Buy Section -->
+<section id="buy" class="container mx-auto px-6 py-16 text-center">
+<h2 class="text-3xl font-bold mb-6">Ціна: 2 300 грн</h2>
+<p class="mb-6 text-lg">Кількість обмежена. Встигни замовити свій FreedConn T-Com SC вже сьогодні!</p>
+<a href="tel:+380000000000" class="bg-green-500 hover:bg-green-600 px-8 py-4 rounded-xl text-white font-bold text-xl">Подзвонити і замовити</a>
+</section>
+
+
+<!-- Footer -->
+<footer class="bg-black text-gray-300 py-6 mt-12">
+<div class="container mx-auto px-6 text-center">
+<p>© 2025 FreedConn Україна | Всі права захищено</p>
+</div>
+</footer>
+</body>
+</html>
+```
